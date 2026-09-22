@@ -4,7 +4,7 @@
 This room covers the concepts of DNS Manipulation, specifically focusing on how attackers use the Domain Name System (DNS) to bypass network security controls. It covers techniques like **DNS Exfiltration** (smuggling data out of a network), **DNS Infiltration** (pulling malicious code into a network), and **DNS Tunneling**.
 
 ---
-What is DNS?
+## What is DNS?
 A refresher on DNS commands and record types.
 
 If you were on Windows, what command could you use to query a txt record for 'youtube.com'?

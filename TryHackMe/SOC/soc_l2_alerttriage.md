@@ -47,3 +47,4 @@ A case is formally completed only when the threat is **fully eradicated and reco
 * **Evidence Preservation:** Document every step, script, and terminal output inside the ticketing platform.
 * **Knowledge Sharing:** Brief the rest of the SOC team on newly discovered adversary behaviors.
 * **Stakeholder Reporting:** Provide clear, executive-friendly status updates or formal reports to managers and clients.
+
